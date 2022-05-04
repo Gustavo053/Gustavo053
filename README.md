@@ -5,7 +5,7 @@
 <h3>💻 Software Engineer</h3>
 
 - <p>🇧🇷 I'm from Brazil</p>
-- <p>💼 I currently work as full stack developer at Logique Sistemas<br></p>
+- <p>💼 I currently work as software architect at ACT Digital<br></p>
 - <p>🎓 Undergraduate in analysis and systems development - UFRN</strong><br></p>
 - <p>👨‍💻 Creating things</strong><br></p>
 
