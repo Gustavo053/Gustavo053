@@ -2,7 +2,7 @@
 
 <h2 align="left"> Hello, I'm Gustavo! Welcome to my GitHub. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
 
-<h3>💻 Software Engineer</h3>
+<h3>💻 Technology lover</h3>
 
 - <p>🇧🇷 I'm from Brazil</p>
 - <p>💼 I currently work as software architect at ACT Digital<br></p>
