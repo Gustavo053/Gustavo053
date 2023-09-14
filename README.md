@@ -5,7 +5,7 @@
 <h3>💻 Technology lover</h3>
 
 - <p>🇧🇷 I'm from Brazil</p>
-- <p>💼 I currently work as software architect at ACT Digital<br></p>
+- <p>💼 I currently work as software engineer at Sicoob<br></p>
 - <p>🎓 Graduate in analysis and systems development - UFRN</strong><br></p>
 - <p>👨‍💻 Creating things</strong><br></p>
 
