@@ -2,7 +2,7 @@
 
 <h2 align="left"> Hello, I'm Gustavo! Welcome to my GitHub.</h2>
 
-<h3>💻 Technology lover</h3>
+<h3>💻 I solve problems using technology</h3>
 
 - <p>🇧🇷 I'm from Brazil</p>
 - <p>💼 I currently work as software engineer at Sicoob<br></p>
