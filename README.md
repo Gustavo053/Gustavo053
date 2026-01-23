@@ -15,10 +15,3 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/gustavo-pereira053/)](https://www.linkedin.com/in/gustavo-pereira053/)
 </div>
-   
-<div>
- <a href="https://github.com/Gustavo053/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo053&show_icons=true&theme=dark" style"max-width: 100%;" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo053&layout=compact&theme=dark" style"max-width: 100%;" />
- </a>
-</div>
